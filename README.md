@@ -163,9 +163,7 @@ ecg-biometric-encryption/
 ## 📚 Research Publications
 
 This work has been submitted to:
-- **IEEE Transactions on Biomedical Engineering**
-- **Journal of Biomedical Signal Processing**
-- **International Conference on Biomedical Engineering**
+- **ELECTRICA Journal IUC University Press**
 
 ## 🤝 Contributing
 
